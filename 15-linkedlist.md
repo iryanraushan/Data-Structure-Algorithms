@@ -4,9 +4,9 @@
 
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
 - [:heavy_check_mark:] [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`  
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode` 
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`  
-- [ ] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
+- [:heavy_check_mark:] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode` 
+- [:heavy_check_mark:] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`  
+- [:heavy_check_mark:] [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
 - [ ] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
