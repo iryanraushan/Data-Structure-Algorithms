@@ -6,7 +6,7 @@
 - [x] [Same Tree](https://leetcode.com/problems/same-tree/) `leetcode`
 - [x] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) `leetcode`
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) `leetcode`
-- [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) `leetcode`
+- [x] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) `leetcode`
 - [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) `leetcode`
 - [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) `leetcode`
 - [ ] [Path Sum](https://leetcode.com/problems/path-sum/) `leetcode`
